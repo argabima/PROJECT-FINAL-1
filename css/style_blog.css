@@ -1,0 +1,42 @@
+.tm-section {
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+    display: block;
+}
+
+*,
+ ::after,
+ ::before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+
+body {
+    color: #8c8c8c;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.tm-section {
+    background: #398AB9;
+}
+
+h3 {
+    text-shadow: black;
+}
